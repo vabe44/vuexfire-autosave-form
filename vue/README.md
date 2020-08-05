@@ -1,19 +1,9 @@
-# vuefire-test
-
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+**Edit the vue/src/db.js file and add your Firebase credentials**
+
 ```
+cd vue
+npm install
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
