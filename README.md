@@ -24,13 +24,17 @@ My solution was to create a form, and use a debounced input event on it to autos
 
  1. **Create a Firebase project**
 
->     cd cloudfunctions/functions
->     npm install
->     firebase use --add
->     firebase deploy
+```
+cd cloudfunctions/functions
+npm install
+firebase use --add
+firebase deploy
+```
 
  2. **Edit the vue/src/db.js file and add your Firebase credentials**
 
->     cd vue
->     npm install
->     npm run serve
+```
+cd vue
+npm install
+npm run serve
+```
