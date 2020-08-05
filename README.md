@@ -10,9 +10,9 @@ Build a form with 5 fields with autosave ability and show the percentage of form
 
 **Specifics:**
 
-- Use TailwindCSS (tailwindcss.com) for design and UI
+- Use [TailwindCSS](https://tailwindcss.com/) for design and UI
 - Use Cloud Firestore as database
-- Use Vue (https://vuejs.org/) and Vuexfire (https://vuefire.vuejs.org/vuexfire/) to save data in the database
+- Use [Vue](https://vuejs.org) and [Vuexfire](https://vuefire.vuejs.org/vuexfire) to save data in the database
 
 Write a Cloud Function event to calculate form completion percentage in the backend.
 
