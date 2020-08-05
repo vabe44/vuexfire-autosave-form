@@ -1,7 +1,7 @@
 **Create a Firebase project**
 
 ```
-cd cloudfunctions/functions
+cd functions
 npm install
 firebase use --add
 firebase deploy
